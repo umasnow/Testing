@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="u_test" label="scoped" max_length="40" name="x_362618_ovs_scoped" sizeclass="1" type="collection"/>
+</database>
